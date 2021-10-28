@@ -1,2 +1,0 @@
-# groovydebug
-一种利用java修改groovy语法树的调试方法，就是代码断点和变量获取
